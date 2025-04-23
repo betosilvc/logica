@@ -1,0 +1,15 @@
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\bin\Debug\net9.0\Contagem10.exe
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\bin\Debug\net9.0\Contagem10.deps.json
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\bin\Debug\net9.0\Contagem10.runtimeconfig.json
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\bin\Debug\net9.0\Contagem10.dll
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\bin\Debug\net9.0\Contagem10.pdb
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.AssemblyInfoInputs.cache
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.AssemblyInfo.cs
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.csproj.CoreCompileInputs.cache
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.sourcelink.json
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.dll
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\refint\Contagem10.dll
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.pdb
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\Contagem10.genruntimeconfig.cache
+C:\Users\jose.rschagas1\OneDrive - SENAC - SP\exercicios\contagem10\Contagem10\obj\Debug\net9.0\ref\Contagem10.dll
