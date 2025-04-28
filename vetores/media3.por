@@ -3,8 +3,7 @@ programa
   inclua biblioteca Matematica --> mat
     funcao inicio()  
     {  
-        //Declaração de um vetor de inteiros  
-        // de cinco posições já inicializado.  
+        
         real notas[3], media = 0
 
         para(inteiro i=0; i<3;i++){

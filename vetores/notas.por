@@ -2,8 +2,7 @@ programa
 {  
     funcao inicio()  
     {  
-        //Declaração de um vetor de inteiros  
-        // de cinco posições já inicializado.  
+       
         real notas[3]
 
         para(inteiro i=0; i<3;i++){
