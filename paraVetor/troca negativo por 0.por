@@ -12,7 +12,7 @@ programa
             vetor[i] = 0
           }
         } 
-          escreva("Substitui os valores negativos por 0\nO vetor ficou assim\n" , vetor,"  \n")
+          escreva("Substituí os valores negativos por 0\nO vetor ficou assim\n" , vetor,"  \n")
 
     }
 }
